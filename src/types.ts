@@ -27,8 +27,8 @@ if (typeof some === 'string') {
     str = some;
 }
 
-let person: [string, number]
-person = ["Max", 21];
+let human: [string, number]
+human = ["Max", 21];
 
 // Опишіть enum умову наступну: він повинен відображати статус завантаження. Завантажується (LOADING) та завантажена (READY).
 enum Status { LOADING, READY };

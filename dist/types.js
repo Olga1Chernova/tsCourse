@@ -20,8 +20,8 @@ let str;
 if (typeof some === 'string') {
     str = some;
 }
-let person;
-person = ["Max", 21];
+let human;
+human = ["Max", 21];
 var Status;
 (function (Status) {
     Status[Status["LOADING"] = 0] = "LOADING";
@@ -64,3 +64,4 @@ const page2 = {
     accounts: ["Alex"],
     status: "close",
 };
+//# sourceMappingURL=types.js.map
